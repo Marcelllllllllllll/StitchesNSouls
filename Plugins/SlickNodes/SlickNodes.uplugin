@@ -1,0 +1,28 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "SlickNodes",
+  "Description": "A slick node style, graphs look cleaner and are more readable.",
+  "Category": "Editor",
+  "CreatedBy": "NA Tools",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/c35507c5-d9a5-46c4-9361-77494821d452",
+  "SupportURL": "natools.dev@gmail.com",
+  "EngineVersion": "5.8",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "SlickNodes",
+      "Type": "Editor",
+      "LoadingPhase": "PostEngineInit",
+      "PlatformAllowList": [
+        "Win64"
+      ]
+    }
+  ]
+}
